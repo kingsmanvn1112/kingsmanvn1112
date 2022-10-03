@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kingsmanvn 👋‹</h1>
+<h1 align="center">Hey, I'm Kingsmanvn 👋</h1>
 <h3 align="center">💻💖 <br /> Passionate about building things that make people's lives better and making the world a better place.</h3>
 
 <h3 align="left">Connect with me:</h3>
